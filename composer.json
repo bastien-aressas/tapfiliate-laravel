@@ -1,14 +1,14 @@
 {
-    "name": "llbbl/tapfiliate-laravel",
+    "name": "bastien-aressas/tapfiliate-laravel",
     "type": "library",
-    "description": "Tapfiliate API Laravel library",
+    "description": "FORKED Tapfiliate API Laravel library",
     "keywords": [],
     "homepage": "https://tapfiliate.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "LegacyBetaDev",
-            "email": "developers@legacybeta.com"
+            "name": "Bastouf",
+            "email": "bastien@ares-sas.com"
         }
     ],
     "require": {
