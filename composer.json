@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=8.0.0",
-        "llbbl/tapfiliate-php": "1.0"
+        "bastien-aressas/forked-tapfiliate-php": "^v2.0"
     },
     "autoload": {
         "psr-4": {
